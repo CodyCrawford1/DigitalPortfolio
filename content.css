@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+}
+ 
+body {
+    background-image: url(background-site.jpeg);
+}
+
+#topicOne {
+    text-align: center;
+}
+
+#descOne {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#topicTwo {
+    text-align: center;
+}
+
+#descTwo {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#topicThree {
+    text-align: center;
+}
+
+#descThree {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
